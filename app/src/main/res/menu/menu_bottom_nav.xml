@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/nav_home"
+        android:title="Home"/>
+
+    <item
+        android:icon="@drawable/ic_baseline_people_alt_24"
+        android:id="@+id/nav_players"
+        android:title="Players"/>
+
+    <item
+        android:icon="@drawable/ic_baseline_layers_24"
+        android:id="@+id/nav_matches"
+        android:title="Matches" />
+
+    <item
+        android:icon="@drawable/ic_baseline_view_carousel_24"
+        android:id="@+id/nav_teams"
+        android:title="Teams" />
+
+</menu>

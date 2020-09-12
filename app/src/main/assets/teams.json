@@ -1,0 +1,184 @@
+[{
+  "captainId": "10",
+  "id": "t_1",
+  "playersIdList": ["11", "12", "13", "14", "15", "16", "17", "18", "19", "110", "111", "112", "113", "114"],
+  "teamProfile": {
+    "name": "Flyers",
+    "teamCode": "NM1",
+    "imageUrl": "https://static.dribbble.com/users/418509/screenshots/14091820/media/39a386f211beeec58685eed64f6ef017.png"
+  },
+  "teamStats": {
+    "lost": 10,
+    "played": 20,
+    "points": 20,
+    "won": 10
+  }
+}, {
+  "captainId": "20",
+  "id": "t_2",
+  "playersIdList": ["21", "22", "23", "24", "25", "26", "27", "28", "29", "210", "211", "212", "213", "214"],
+  "teamProfile": {
+    "name": "Lions",
+    "teamCode": "NM2",
+    "imageUrl": "https://static.dribbble.com/users/40992/screenshots/9264884/media/ac84d592faf3b7c4783ef7538e5e609f.jpg"
+  },
+  "teamStats": {
+    "lost": 10,
+    "played": 20,
+    "points": 20,
+    "won": 10
+  }
+}, {
+  "captainId": "30",
+  "id": "t_3",
+  "playersIdList": ["31", "32", "33", "34", "35", "36", "37", "38", "39", "310", "311", "312", "313", "314"],
+  "teamProfile": {
+    "name": "Bears",
+    "teamCode": "NM3",
+    "imageUrl": "https://static.dribbble.com/users/40992/screenshots/7802749/media/efcd50407efeceac366e7d00ae9fea7d.jpg"
+  },
+  "teamStats": {
+    "lost": 10,
+    "played": 20,
+    "points": 20,
+    "won": 10
+  }
+}, {
+  "captainId": "40",
+  "id": "t_4",
+  "playersIdList": ["41", "42", "43", "44", "45", "46", "47", "48", "49", "410", "411", "412", "413", "414"],
+  "teamProfile": {
+    "name": "Seahawks",
+    "teamCode": "NM4",
+    "imageUrl": "https://static.dribbble.com/users/418509/screenshots/6468444/1.png"
+  },
+  "teamStats": {
+    "lost": 10,
+    "played": 20,
+    "points": 20,
+    "won": 10
+  }
+}, {
+  "captainId": "50",
+  "id": "t_5",
+  "playersIdList": ["51", "52", "53", "54", "55", "56", "57", "58", "59", "510", "511", "512", "513", "514"],
+  "teamProfile": {
+    "name": "Gladiators",
+    "teamCode": "NM5",
+    "imageUrl": "https://static.dribbble.com/users/418509/screenshots/9709830/media/9b6d1e1bdf73619412d0a1a625572cf1.png"
+
+  },
+  "teamStats": {
+    "lost": 10,
+    "played": 20,
+    "points": 20,
+    "won": 10
+  }
+}, {
+  "captainId": "60",
+  "id": "t_6",
+  "playersIdList": ["61", "62", "63", "64", "65", "66", "67", "68", "69", "610", "611", "612", "613", "614"],
+  "teamProfile": {
+    "name": "Panthers",
+    "teamCode": "NM6",
+    "imageUrl": "https://static.dribbble.com/users/1543265/screenshots/8192949/media/9cfe75f6a31b7029310cb45f910a9286.png"
+  },
+  "teamStats": {
+    "lost": 10,
+    "played": 20,
+    "points": 20,
+    "won": 10
+  }
+}, {
+  "captainId": "70",
+  "id": "t_7",
+  "playersIdList": ["71", "72", "73", "74", "75", "76", "77", "78", "79", "710", "711", "712", "713", "714"],
+  "teamProfile": {
+    "name": "Dodgers",
+    "teamCode": "NM7",
+    "imageUrl": "https://static.dribbble.com/users/482854/screenshots/13893739/media/790312e8f077ed1b36684d63505bd0b6.png"
+
+  },
+  "teamStats": {
+    "lost": 10,
+    "played": 20,
+    "points": 20,
+    "won": 10
+  }
+}, {
+  "captainId": "80",
+  "id": "t_8",
+  "playersIdList": ["81", "82", "83", "84", "85", "86", "87", "88", "89", "810", "811", "812", "813", "814"],
+  "teamProfile": {
+    "name": "Wolves",
+    "teamCode": "NM8",
+    "imageUrl": "https://static.dribbble.com/users/1543265/screenshots/7000805/media/b2312b233701b189ba36f4635616e3d0.png"
+
+  },
+  "teamStats": {
+    "lost": 10,
+    "played": 20,
+    "points": 20,
+    "won": 10
+  }
+}, {
+  "captainId": "90",
+  "id": "t_9",
+  "playersIdList": ["91", "92", "93", "94", "95", "96", "97", "98", "99", "910", "911", "912", "913", "914"],
+  "teamProfile": {
+    "name": "Eagles",
+    "teamCode": "NM9",
+    "imageUrl": "https://static.dribbble.com/users/126602/screenshots/9894715/media/8e29983f39e58c3c1091f2a293d877d7.jpg"
+  },
+  "teamStats": {
+    "lost": 10,
+    "played": 20,
+    "points": 20,
+    "won": 10
+  }
+}, {
+  "captainId": "100",
+  "id": "t_10",
+  "playersIdList": ["101", "102", "103", "104", "105", "106", "107", "108", "109", "1010", "1011", "1012", "1013", "1014"],
+  "teamProfile": {
+    "name": "Bulls",
+    "teamCode": "NM10",
+    "imageUrl": "https://static.dribbble.com/users/1141243/screenshots/5460447/bull_12412tgf.png"
+  },
+  "teamStats": {
+    "lost": 10,
+    "played": 20,
+    "points": 20,
+    "won": 10
+  }
+}, {
+  "captainId": "110",
+  "id": "t_11",
+  "playersIdList": ["111", "112", "113", "114", "115", "116", "117", "118", "119", "1110", "1111", "1112", "1113", "1114"],
+  "teamProfile": {
+    "name": "Owls",
+    "teamCode": "NM11",
+    "imageUrl": "https://static.dribbble.com/users/949604/screenshots/8273307/media/612bd60dd2ab7002344978170097228c.png"
+  },
+  "teamStats": {
+    "lost": 10,
+    "played": 20,
+    "points": 20,
+    "won": 10
+  }
+}, {
+  "captainId": "120",
+  "id": "t_12",
+  "playersIdList": ["121", "122", "123", "124", "125", "126", "127", "128", "129", "1210", "1211", "1212", "1213", "1214"],
+  "teamProfile": {
+    "name": "Raptors",
+    "teamCode": "NM12",
+    "imageUrl": "https://static.dribbble.com/users/418509/screenshots/6288643/dribbble.png"
+  },
+  "teamStats": {
+    "lost": 10,
+    "played": 20,
+    "points": 20,
+    "won": 10
+  }
+}]

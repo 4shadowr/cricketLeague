@@ -1,0 +1,3025 @@
+[{
+  "id": "11",
+  "playerProfile": {
+    "firstName": "Jessyca",
+    "lastName": "Bednar",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/karalek/128.jpg",
+    "age": 24,
+    "country": "South Africa",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 39,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 14,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "12",
+  "playerProfile": {
+    "firstName": "Josefina",
+    "lastName": "Wolf",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/anthonysukow/128.jpg",
+    "age": 36,
+    "country": "New Zealand",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 6,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Batsman"
+  }
+}, {
+  "id": "13",
+  "playerProfile": {
+    "firstName": "Violette",
+    "lastName": "Kreiger",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/orkuncaylar/128.jpg",
+    "age": 33,
+    "country": "Pakistan",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 29,
+    "manOfTheMatchWins": 9,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 36,
+    "type": "Batsman"
+  }
+}, {
+  "id": "14",
+  "playerProfile": {
+    "firstName": "Triston",
+    "lastName": "Goodwin",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/vladyn/128.jpg",
+    "age": 23,
+    "country": "Pakistan",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 11,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 44,
+    "type": "Batsman"
+  }
+}, {
+  "id": "15",
+  "playerProfile": {
+    "firstName": "Erika",
+    "lastName": "Padberg",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/sprayaga/128.jpg",
+    "age": 35,
+    "country": "Australia",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 12,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 12,
+    "type": "Batsman"
+  }
+}, {
+  "id": "16",
+  "playerProfile": {
+    "firstName": "Jacinto",
+    "lastName": "Ondricka",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/layerssss/128.jpg",
+    "age": 22,
+    "country": "Bangladesh",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 32,
+    "manOfTheMatchWins": 6,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 4,
+    "totalPoints": 32,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "17",
+  "playerProfile": {
+    "firstName": "Murphy",
+    "lastName": "Glover",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/balakayuriy/128.jpg",
+    "age": 21,
+    "country": "Bangladesh",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 32,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 9,
+    "bestFieldWins": 0,
+    "totalPoints": 34,
+    "type": "Bowler"
+  }
+}, {
+  "id": "18",
+  "playerProfile": {
+    "firstName": "Loyal",
+    "lastName": "Ondricka",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/HenryHoffman/128.jpg",
+    "age": 38,
+    "country": "Pakistan",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 36,
+    "manOfTheMatchWins": 10,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 40,
+    "type": "Batsman"
+  }
+}, {
+  "id": "19",
+  "playerProfile": {
+    "firstName": "Wilhelm",
+    "lastName": "Feest",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/low_res/128.jpg",
+    "age": 22,
+    "country": "Australia",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 25,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 1,
+    "totalPoints": 6,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "110",
+  "playerProfile": {
+    "firstName": "Candace",
+    "lastName": "Green",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/faisalabid/128.jpg",
+    "age": 29,
+    "country": "New Zealand",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 24,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Batsman"
+  }
+}, {
+  "id": "111",
+  "playerProfile": {
+    "firstName": "Daisha",
+    "lastName": "Schmidt",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/charlesrpratt/128.jpg",
+    "age": 34,
+    "country": "Australia",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 37,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 10,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Bowler"
+  }
+}, {
+  "id": "112",
+  "playerProfile": {
+    "firstName": "Berenice",
+    "lastName": "Waelchi",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/danvierich/128.jpg",
+    "age": 30,
+    "country": "Sri Lanka",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 32,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 7,
+    "totalPoints": 30,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "113",
+  "playerProfile": {
+    "firstName": "Orville",
+    "lastName": "Schaefer",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/sulaqo/128.jpg",
+    "age": 35,
+    "country": "New Zealand",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 31,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 7,
+    "bestFieldWins": 0,
+    "totalPoints": 18,
+    "type": "Bowler"
+  }
+}, {
+  "id": "114",
+  "playerProfile": {
+    "firstName": "Jessy",
+    "lastName": "Skiles",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/andreas_pr/128.jpg",
+    "age": 30,
+    "country": "South Africa",
+    "teamId": "t_1"
+  },
+  "playerStats": {
+    "matchesPlayed": 32,
+    "manOfTheMatchWins": 9,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 36,
+    "type": "Batsman"
+  }
+}, {
+  "id": "21",
+  "playerProfile": {
+    "firstName": "Nathanael",
+    "lastName": "Quitzon",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/kiwiupover/128.jpg",
+    "age": 37,
+    "country": "India",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 14,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 1,
+    "totalPoints": 2,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "22",
+  "playerProfile": {
+    "firstName": "Helmer",
+    "lastName": "Haley",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/collegeman/128.jpg",
+    "age": 24,
+    "country": "New Zealand",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 26,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 4,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Bowler"
+  }
+}, {
+  "id": "23",
+  "playerProfile": {
+    "firstName": "Corrine",
+    "lastName": "Haley",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/BrianPurkiss/128.jpg",
+    "age": 28,
+    "country": "Bangladesh",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 35,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 8,
+    "totalPoints": 32,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "24",
+  "playerProfile": {
+    "firstName": "Mina",
+    "lastName": "Gutmann",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/areandacom/128.jpg",
+    "age": 23,
+    "country": "Australia",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 14,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 2,
+    "totalPoints": 8,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "25",
+  "playerProfile": {
+    "firstName": "Brian",
+    "lastName": "Torp",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/javorszky/128.jpg",
+    "age": 29,
+    "country": "India",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 7,
+    "bestFieldWins": 0,
+    "totalPoints": 14,
+    "type": "Bowler"
+  }
+}, {
+  "id": "26",
+  "playerProfile": {
+    "firstName": "Evan",
+    "lastName": "Herzog",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/gkaam/128.jpg",
+    "age": 29,
+    "country": "Bangladesh",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 18,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Batsman"
+  }
+}, {
+  "id": "27",
+  "playerProfile": {
+    "firstName": "Ernestina",
+    "lastName": "Bashirian",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/kumarrajan12123/128.jpg",
+    "age": 24,
+    "country": "Bangladesh",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 12,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 3,
+    "bestFieldWins": 0,
+    "totalPoints": 10,
+    "type": "Bowler"
+  }
+}, {
+  "id": "28",
+  "playerProfile": {
+    "firstName": "Gilberto",
+    "lastName": "Hilll",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/bereto/128.jpg",
+    "age": 23,
+    "country": "Australia",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 5,
+    "bestFieldWins": 0,
+    "totalPoints": 14,
+    "type": "Bowler"
+  }
+}, {
+  "id": "29",
+  "playerProfile": {
+    "firstName": "Caleb",
+    "lastName": "Homenick",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/stalewine/128.jpg",
+    "age": 27,
+    "country": "Pakistan",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 21,
+    "manOfTheMatchWins": 6,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Batsman"
+  }
+}, {
+  "id": "210",
+  "playerProfile": {
+    "firstName": "William",
+    "lastName": "Lehner",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/magoo04/128.jpg",
+    "age": 34,
+    "country": "Bangladesh",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 20,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Batsman"
+  }
+}, {
+  "id": "211",
+  "playerProfile": {
+    "firstName": "Carolyne",
+    "lastName": "Fadel",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/vc27/128.jpg",
+    "age": 28,
+    "country": "South Africa",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 18,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 16,
+    "type": "Batsman"
+  }
+}, {
+  "id": "212",
+  "playerProfile": {
+    "firstName": "Tania",
+    "lastName": "Barrows",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/exentrich/128.jpg",
+    "age": 20,
+    "country": "India",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 6,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Batsman"
+  }
+}, {
+  "id": "213",
+  "playerProfile": {
+    "firstName": "Sammy",
+    "lastName": "Welch",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/joreira/128.jpg",
+    "age": 24,
+    "country": "India",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 31,
+    "manOfTheMatchWins": 8,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Batsman"
+  }
+}, {
+  "id": "214",
+  "playerProfile": {
+    "firstName": "Nelle",
+    "lastName": "Ankunding",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/kumarrajan12123/128.jpg",
+    "age": 24,
+    "country": "Sri Lanka",
+    "teamId": "t_2"
+  },
+  "playerStats": {
+    "matchesPlayed": 35,
+    "manOfTheMatchWins": 9,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 36,
+    "type": "Batsman"
+  }
+}, {
+  "id": "31",
+  "playerProfile": {
+    "firstName": "Magali",
+    "lastName": "Kovacek",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/ivanfilipovbg/128.jpg",
+    "age": 28,
+    "country": "England",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 34,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 8,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Bowler"
+  }
+}, {
+  "id": "32",
+  "playerProfile": {
+    "firstName": "Alene",
+    "lastName": "Little",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/timmillwood/128.jpg",
+    "age": 21,
+    "country": "Sri Lanka",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 31,
+    "manOfTheMatchWins": 7,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 28,
+    "type": "Batsman"
+  }
+}, {
+  "id": "33",
+  "playerProfile": {
+    "firstName": "Austin",
+    "lastName": "Bergstrom",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/chrisstumph/128.jpg",
+    "age": 19,
+    "country": "India",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 29,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 6,
+    "bestFieldWins": 0,
+    "totalPoints": 28,
+    "type": "Bowler"
+  }
+}, {
+  "id": "34",
+  "playerProfile": {
+    "firstName": "Flavio",
+    "lastName": "Aufderhar",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/carlosm/128.jpg",
+    "age": 28,
+    "country": "New Zealand",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 22,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Batsman"
+  }
+}, {
+  "id": "35",
+  "playerProfile": {
+    "firstName": "Charley",
+    "lastName": "Stokes",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/necodymiconer/128.jpg",
+    "age": 36,
+    "country": "India",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 27,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 14,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "36",
+  "playerProfile": {
+    "firstName": "Ubaldo",
+    "lastName": "Will",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/aio___/128.jpg",
+    "age": 25,
+    "country": "South Africa",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 30,
+    "manOfTheMatchWins": 9,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 36,
+    "type": "Batsman"
+  }
+}, {
+  "id": "37",
+  "playerProfile": {
+    "firstName": "Katlyn",
+    "lastName": "Renner",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/smenov/128.jpg",
+    "age": 20,
+    "country": "Pakistan",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 26,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 3,
+    "bestFieldWins": 0,
+    "totalPoints": 26,
+    "type": "Bowler"
+  }
+}, {
+  "id": "38",
+  "playerProfile": {
+    "firstName": "Sarina",
+    "lastName": "Hodkiewicz",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/teddyzetterlund/128.jpg",
+    "age": 32,
+    "country": "Bangladesh",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 29,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 6,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Bowler"
+  }
+}, {
+  "id": "39",
+  "playerProfile": {
+    "firstName": "Reece",
+    "lastName": "Hane",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/millinet/128.jpg",
+    "age": 35,
+    "country": "Pakistan",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 9,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 36,
+    "type": "Batsman"
+  }
+}, {
+  "id": "310",
+  "playerProfile": {
+    "firstName": "Saul",
+    "lastName": "Pouros",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/wesleytrankin/128.jpg",
+    "age": 21,
+    "country": "India",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 31,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 5,
+    "totalPoints": 30,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "311",
+  "playerProfile": {
+    "firstName": "Nicklaus",
+    "lastName": "Wunsch",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/_dwite_/128.jpg",
+    "age": 32,
+    "country": "India",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 36,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 1,
+    "totalPoints": 18,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "312",
+  "playerProfile": {
+    "firstName": "Keegan",
+    "lastName": "Jacobi",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/ma_tiax/128.jpg",
+    "age": 19,
+    "country": "England",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 36,
+    "manOfTheMatchWins": 8,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Batsman"
+  }
+}, {
+  "id": "313",
+  "playerProfile": {
+    "firstName": "Kathryn",
+    "lastName": "Mitchell",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/zauerkraut/128.jpg",
+    "age": 28,
+    "country": "New Zealand",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 39,
+    "manOfTheMatchWins": 7,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 10,
+    "totalPoints": 48,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "314",
+  "playerProfile": {
+    "firstName": "Macy",
+    "lastName": "Zemlak",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg",
+    "age": 37,
+    "country": "Bangladesh",
+    "teamId": "t_3"
+  },
+  "playerStats": {
+    "matchesPlayed": 16,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 6,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "41",
+  "playerProfile": {
+    "firstName": "Victoria",
+    "lastName": "Schmidt",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/dimaposnyy/128.jpg",
+    "age": 29,
+    "country": "Pakistan",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 20,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 6,
+    "totalPoints": 16,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "42",
+  "playerProfile": {
+    "firstName": "Carroll",
+    "lastName": "Monahan",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/begreative/128.jpg",
+    "age": 36,
+    "country": "England",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 16,
+    "type": "Batsman"
+  }
+}, {
+  "id": "43",
+  "playerProfile": {
+    "firstName": "Birdie",
+    "lastName": "McGlynn",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/thomasgeisen/128.jpg",
+    "age": 27,
+    "country": "South Africa",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 30,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 22,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "44",
+  "playerProfile": {
+    "firstName": "Judson",
+    "lastName": "Balistreri",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/darylws/128.jpg",
+    "age": 35,
+    "country": "Bangladesh",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 8,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Batsman"
+  }
+}, {
+  "id": "45",
+  "playerProfile": {
+    "firstName": "Clementina",
+    "lastName": "Auer",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/jnmnrd/128.jpg",
+    "age": 28,
+    "country": "Australia",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 34,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 8,
+    "totalPoints": 20,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "46",
+  "playerProfile": {
+    "firstName": "Orpha",
+    "lastName": "Prohaska",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/snowshade/128.jpg",
+    "age": 28,
+    "country": "India",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 12,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 6,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "47",
+  "playerProfile": {
+    "firstName": "Lyda",
+    "lastName": "Roob",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/d_nny_m_cher/128.jpg",
+    "age": 35,
+    "country": "South Africa",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 24,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 2,
+    "totalPoints": 20,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "48",
+  "playerProfile": {
+    "firstName": "Nash",
+    "lastName": "Spinka",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/skkirilov/128.jpg",
+    "age": 21,
+    "country": "South Africa",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 17,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 4,
+    "bestFieldWins": 0,
+    "totalPoints": 8,
+    "type": "Bowler"
+  }
+}, {
+  "id": "49",
+  "playerProfile": {
+    "firstName": "Lizeth",
+    "lastName": "Feil",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/bpartridge/128.jpg",
+    "age": 31,
+    "country": "Australia",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 24,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 14,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "410",
+  "playerProfile": {
+    "firstName": "Arden",
+    "lastName": "Mayert",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/_kkga/128.jpg",
+    "age": 35,
+    "country": "Sri Lanka",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 39,
+    "manOfTheMatchWins": 7,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 5,
+    "totalPoints": 38,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "411",
+  "playerProfile": {
+    "firstName": "Devante",
+    "lastName": "Parker",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/gauchomatt/128.jpg",
+    "age": 31,
+    "country": "Pakistan",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 25,
+    "manOfTheMatchWins": 6,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Batsman"
+  }
+}, {
+  "id": "412",
+  "playerProfile": {
+    "firstName": "Jerry",
+    "lastName": "Jaskolski",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/oscarowusu/128.jpg",
+    "age": 24,
+    "country": "England",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 37,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 7,
+    "totalPoints": 30,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "413",
+  "playerProfile": {
+    "firstName": "Gilbert",
+    "lastName": "Ebert",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/robinclediere/128.jpg",
+    "age": 30,
+    "country": "Bangladesh",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 29,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 9,
+    "bestFieldWins": 0,
+    "totalPoints": 22,
+    "type": "Bowler"
+  }
+}, {
+  "id": "414",
+  "playerProfile": {
+    "firstName": "Adolph",
+    "lastName": "Bradtke",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg",
+    "age": 25,
+    "country": "England",
+    "teamId": "t_4"
+  },
+  "playerStats": {
+    "matchesPlayed": 25,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 5,
+    "bestFieldWins": 0,
+    "totalPoints": 26,
+    "type": "Bowler"
+  }
+}, {
+  "id": "51",
+  "playerProfile": {
+    "firstName": "Lourdes",
+    "lastName": "Wisozk",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/vitorleal/128.jpg",
+    "age": 31,
+    "country": "Pakistan",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 28,
+    "manOfTheMatchWins": 7,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 28,
+    "type": "Batsman"
+  }
+}, {
+  "id": "52",
+  "playerProfile": {
+    "firstName": "Marcellus",
+    "lastName": "Goodwin",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/damenleeturks/128.jpg",
+    "age": 22,
+    "country": "India",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 33,
+    "manOfTheMatchWins": 9,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 36,
+    "type": "Batsman"
+  }
+}, {
+  "id": "53",
+  "playerProfile": {
+    "firstName": "Deon",
+    "lastName": "Jacobson",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/mizhgan/128.jpg",
+    "age": 22,
+    "country": "England",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 7,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 8,
+    "totalPoints": 44,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "54",
+  "playerProfile": {
+    "firstName": "Evan",
+    "lastName": "O'Conner",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/tobysaxon/128.jpg",
+    "age": 20,
+    "country": "Sri Lanka",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 8,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Batsman"
+  }
+}, {
+  "id": "55",
+  "playerProfile": {
+    "firstName": "Alfredo",
+    "lastName": "Leuschke",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/adamawesomeface/128.jpg",
+    "age": 38,
+    "country": "England",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 31,
+    "manOfTheMatchWins": 8,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Batsman"
+  }
+}, {
+  "id": "56",
+  "playerProfile": {
+    "firstName": "Reginald",
+    "lastName": "Feeney",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/haydn_woods/128.jpg",
+    "age": 35,
+    "country": "Bangladesh",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 2,
+    "bestFieldWins": 0,
+    "totalPoints": 4,
+    "type": "Bowler"
+  }
+}, {
+  "id": "57",
+  "playerProfile": {
+    "firstName": "Jefferey",
+    "lastName": "Stoltenberg",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/gt/128.jpg",
+    "age": 21,
+    "country": "South Africa",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 11,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 2,
+    "bestFieldWins": 0,
+    "totalPoints": 12,
+    "type": "Bowler"
+  }
+}, {
+  "id": "58",
+  "playerProfile": {
+    "firstName": "Patsy",
+    "lastName": "Wiza",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/oktayelipek/128.jpg",
+    "age": 37,
+    "country": "New Zealand",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 26,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 3,
+    "bestFieldWins": 0,
+    "totalPoints": 6,
+    "type": "Bowler"
+  }
+}, {
+  "id": "59",
+  "playerProfile": {
+    "firstName": "Josephine",
+    "lastName": "Weber",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/davidmerrique/128.jpg",
+    "age": 27,
+    "country": "Pakistan",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 39,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 6,
+    "bestFieldWins": 0,
+    "totalPoints": 12,
+    "type": "Bowler"
+  }
+}, {
+  "id": "510",
+  "playerProfile": {
+    "firstName": "Kaela",
+    "lastName": "Mraz",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/ehsandiary/128.jpg",
+    "age": 19,
+    "country": "South Africa",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 14,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 1,
+    "bestFieldWins": 0,
+    "totalPoints": 6,
+    "type": "Bowler"
+  }
+}, {
+  "id": "511",
+  "playerProfile": {
+    "firstName": "Irma",
+    "lastName": "Jakubowski",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/marcusgorillius/128.jpg",
+    "age": 27,
+    "country": "South Africa",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 23,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 5,
+    "totalPoints": 18,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "512",
+  "playerProfile": {
+    "firstName": "Armani",
+    "lastName": "Feeney",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/sethlouey/128.jpg",
+    "age": 25,
+    "country": "South Africa",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 26,
+    "manOfTheMatchWins": 7,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 28,
+    "type": "Batsman"
+  }
+}, {
+  "id": "513",
+  "playerProfile": {
+    "firstName": "Bryon",
+    "lastName": "Altenwerth",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/divya/128.jpg",
+    "age": 25,
+    "country": "South Africa",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 11,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 1,
+    "totalPoints": 6,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "514",
+  "playerProfile": {
+    "firstName": "Andrew",
+    "lastName": "Halvorson",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/marciotoledo/128.jpg",
+    "age": 25,
+    "country": "India",
+    "teamId": "t_5"
+  },
+  "playerStats": {
+    "matchesPlayed": 11,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 1,
+    "bestFieldWins": 0,
+    "totalPoints": 6,
+    "type": "Bowler"
+  }
+}, {
+  "id": "61",
+  "playerProfile": {
+    "firstName": "Tyler",
+    "lastName": "Hyatt",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/victordeanda/128.jpg",
+    "age": 39,
+    "country": "Bangladesh",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 23,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Batsman"
+  }
+}, {
+  "id": "62",
+  "playerProfile": {
+    "firstName": "Clark",
+    "lastName": "Beier",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/increase/128.jpg",
+    "age": 23,
+    "country": "England",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 39,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 12,
+    "totalPoints": 40,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "63",
+  "playerProfile": {
+    "firstName": "Elisha",
+    "lastName": "Rolfson",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/rickdt/128.jpg",
+    "age": 21,
+    "country": "Pakistan",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Batsman"
+  }
+}, {
+  "id": "64",
+  "playerProfile": {
+    "firstName": "Trace",
+    "lastName": "Feest",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/mbilderbach/128.jpg",
+    "age": 24,
+    "country": "South Africa",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 31,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 8,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Bowler"
+  }
+}, {
+  "id": "65",
+  "playerProfile": {
+    "firstName": "Telly",
+    "lastName": "Rosenbaum",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/mylesb/128.jpg",
+    "age": 36,
+    "country": "Pakistan",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 12,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 2,
+    "totalPoints": 4,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "66",
+  "playerProfile": {
+    "firstName": "Loy",
+    "lastName": "O'Hara",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/pehamondello/128.jpg",
+    "age": 37,
+    "country": "Sri Lanka",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 11,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 14,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "67",
+  "playerProfile": {
+    "firstName": "Rosalinda",
+    "lastName": "Rolfson",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/iamkeithmason/128.jpg",
+    "age": 33,
+    "country": "Australia",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 15,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 12,
+    "type": "Batsman"
+  }
+}, {
+  "id": "68",
+  "playerProfile": {
+    "firstName": "Arden",
+    "lastName": "Wuckert",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/gt/128.jpg",
+    "age": 31,
+    "country": "India",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 6,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Bowler"
+  }
+}, {
+  "id": "69",
+  "playerProfile": {
+    "firstName": "Myriam",
+    "lastName": "Anderson",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/dnezkumar/128.jpg",
+    "age": 19,
+    "country": "Pakistan",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 21,
+    "manOfTheMatchWins": 6,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Batsman"
+  }
+}, {
+  "id": "610",
+  "playerProfile": {
+    "firstName": "Newton",
+    "lastName": "Farrell",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/anoff/128.jpg",
+    "age": 34,
+    "country": "Sri Lanka",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 27,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 1,
+    "totalPoints": 2,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "611",
+  "playerProfile": {
+    "firstName": "Zoie",
+    "lastName": "Armstrong",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/alxleroydeval/128.jpg",
+    "age": 27,
+    "country": "New Zealand",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 17,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 16,
+    "type": "Batsman"
+  }
+}, {
+  "id": "612",
+  "playerProfile": {
+    "firstName": "Quinton",
+    "lastName": "Pacocha",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/danthms/128.jpg",
+    "age": 28,
+    "country": "South Africa",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 33,
+    "manOfTheMatchWins": 8,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Batsman"
+  }
+}, {
+  "id": "613",
+  "playerProfile": {
+    "firstName": "Candace",
+    "lastName": "Hauck",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/andrewabogado/128.jpg",
+    "age": 30,
+    "country": "India",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 11,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 2,
+    "totalPoints": 12,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "614",
+  "playerProfile": {
+    "firstName": "Edwin",
+    "lastName": "Kshlerin",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/foczzi/128.jpg",
+    "age": 29,
+    "country": "India",
+    "teamId": "t_6"
+  },
+  "playerStats": {
+    "matchesPlayed": 31,
+    "manOfTheMatchWins": 10,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 40,
+    "type": "Batsman"
+  }
+}, {
+  "id": "71",
+  "playerProfile": {
+    "firstName": "Colin",
+    "lastName": "Rodriguez",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/namankreative/128.jpg",
+    "age": 28,
+    "country": "Pakistan",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 25,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 8,
+    "totalPoints": 20,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "72",
+  "playerProfile": {
+    "firstName": "Domenica",
+    "lastName": "Hayes",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/macxim/128.jpg",
+    "age": 38,
+    "country": "Sri Lanka",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 30,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 8,
+    "totalPoints": 16,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "73",
+  "playerProfile": {
+    "firstName": "Bobbie",
+    "lastName": "Bins",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/klimmka/128.jpg",
+    "age": 37,
+    "country": "Australia",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 32,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 9,
+    "bestFieldWins": 0,
+    "totalPoints": 26,
+    "type": "Bowler"
+  }
+}, {
+  "id": "74",
+  "playerProfile": {
+    "firstName": "Earline",
+    "lastName": "Douglas",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/serefka/128.jpg",
+    "age": 33,
+    "country": "Australia",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 36,
+    "manOfTheMatchWins": 8,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Batsman"
+  }
+}, {
+  "id": "75",
+  "playerProfile": {
+    "firstName": "Dortha",
+    "lastName": "Davis",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/adityasutomo/128.jpg",
+    "age": 24,
+    "country": "Pakistan",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 35,
+    "manOfTheMatchWins": 11,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 44,
+    "type": "Batsman"
+  }
+}, {
+  "id": "76",
+  "playerProfile": {
+    "firstName": "Kylee",
+    "lastName": "Miller",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/tristanlegros/128.jpg",
+    "age": 34,
+    "country": "Sri Lanka",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 12,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 1,
+    "bestFieldWins": 0,
+    "totalPoints": 10,
+    "type": "Bowler"
+  }
+}, {
+  "id": "77",
+  "playerProfile": {
+    "firstName": "Gussie",
+    "lastName": "Considine",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/shinze/128.jpg",
+    "age": 21,
+    "country": "India",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 9,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 36,
+    "type": "Batsman"
+  }
+}, {
+  "id": "78",
+  "playerProfile": {
+    "firstName": "Andy",
+    "lastName": "Buckridge",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/iamjdeleon/128.jpg",
+    "age": 38,
+    "country": "England",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 27,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 7,
+    "totalPoints": 30,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "79",
+  "playerProfile": {
+    "firstName": "London",
+    "lastName": "O'Keefe",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/jnmnrd/128.jpg",
+    "age": 38,
+    "country": "India",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 20,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 2,
+    "bestFieldWins": 0,
+    "totalPoints": 8,
+    "type": "Bowler"
+  }
+}, {
+  "id": "710",
+  "playerProfile": {
+    "firstName": "Alejandra",
+    "lastName": "Daugherty",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/raquelwilson/128.jpg",
+    "age": 19,
+    "country": "Bangladesh",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 37,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 9,
+    "bestFieldWins": 0,
+    "totalPoints": 38,
+    "type": "Bowler"
+  }
+}, {
+  "id": "711",
+  "playerProfile": {
+    "firstName": "Maria",
+    "lastName": "Cummings",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/antonyryndya/128.jpg",
+    "age": 30,
+    "country": "South Africa",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 11,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 6,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "712",
+  "playerProfile": {
+    "firstName": "Lilyan",
+    "lastName": "Bosco",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/robergd/128.jpg",
+    "age": 19,
+    "country": "Pakistan",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 23,
+    "manOfTheMatchWins": 6,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Batsman"
+  }
+}, {
+  "id": "713",
+  "playerProfile": {
+    "firstName": "Kaylee",
+    "lastName": "Dickinson",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/Talbi_ConSept/128.jpg",
+    "age": 34,
+    "country": "India",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 2,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Bowler"
+  }
+}, {
+  "id": "714",
+  "playerProfile": {
+    "firstName": "Keanu",
+    "lastName": "Windler",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/marshallchen_/128.jpg",
+    "age": 22,
+    "country": "New Zealand",
+    "teamId": "t_7"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 26,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "81",
+  "playerProfile": {
+    "firstName": "Shane",
+    "lastName": "Waelchi",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/teddyzetterlund/128.jpg",
+    "age": 37,
+    "country": "Bangladesh",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 36,
+    "manOfTheMatchWins": 7,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 34,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "82",
+  "playerProfile": {
+    "firstName": "Kira",
+    "lastName": "Hettinger",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/axel/128.jpg",
+    "age": 22,
+    "country": "South Africa",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 17,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 3,
+    "bestFieldWins": 0,
+    "totalPoints": 18,
+    "type": "Bowler"
+  }
+}, {
+  "id": "83",
+  "playerProfile": {
+    "firstName": "Alba",
+    "lastName": "Hayes",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/claudioguglieri/128.jpg",
+    "age": 29,
+    "country": "England",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 25,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 2,
+    "totalPoints": 16,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "84",
+  "playerProfile": {
+    "firstName": "Vita",
+    "lastName": "Keebler",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/jervo/128.jpg",
+    "age": 19,
+    "country": "England",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 21,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 5,
+    "bestFieldWins": 0,
+    "totalPoints": 26,
+    "type": "Bowler"
+  }
+}, {
+  "id": "85",
+  "playerProfile": {
+    "firstName": "Arlie",
+    "lastName": "Greenfelder",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/zaki3d/128.jpg",
+    "age": 20,
+    "country": "Australia",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 12,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 14,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "86",
+  "playerProfile": {
+    "firstName": "Aryanna",
+    "lastName": "Howe",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/d00maz/128.jpg",
+    "age": 27,
+    "country": "Pakistan",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 25,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 5,
+    "totalPoints": 26,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "87",
+  "playerProfile": {
+    "firstName": "Joannie",
+    "lastName": "Effertz",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/balakayuriy/128.jpg",
+    "age": 36,
+    "country": "England",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 30,
+    "manOfTheMatchWins": 7,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 28,
+    "type": "Batsman"
+  }
+}, {
+  "id": "88",
+  "playerProfile": {
+    "firstName": "Roger",
+    "lastName": "Gorczany",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/grahamkennery/128.jpg",
+    "age": 19,
+    "country": "England",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Batsman"
+  }
+}, {
+  "id": "89",
+  "playerProfile": {
+    "firstName": "Jedediah",
+    "lastName": "Strosin",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/kaspernordkvist/128.jpg",
+    "age": 29,
+    "country": "South Africa",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 32,
+    "manOfTheMatchWins": 10,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 40,
+    "type": "Batsman"
+  }
+}, {
+  "id": "810",
+  "playerProfile": {
+    "firstName": "Alfredo",
+    "lastName": "Medhurst",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/coderdiaz/128.jpg",
+    "age": 25,
+    "country": "Pakistan",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 25,
+    "manOfTheMatchWins": 7,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 28,
+    "type": "Batsman"
+  }
+}, {
+  "id": "811",
+  "playerProfile": {
+    "firstName": "Ashlynn",
+    "lastName": "Ebert",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/nckjrvs/128.jpg",
+    "age": 37,
+    "country": "England",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 31,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 10,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "812",
+  "playerProfile": {
+    "firstName": "Erika",
+    "lastName": "Lynch",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/sulaqo/128.jpg",
+    "age": 25,
+    "country": "England",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 22,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 6,
+    "totalPoints": 20,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "813",
+  "playerProfile": {
+    "firstName": "Jace",
+    "lastName": "Lebsack",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/salleedesign/128.jpg",
+    "age": 22,
+    "country": "Pakistan",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 21,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Batsman"
+  }
+}, {
+  "id": "814",
+  "playerProfile": {
+    "firstName": "Denis",
+    "lastName": "Grimes",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/iamjdeleon/128.jpg",
+    "age": 37,
+    "country": "Bangladesh",
+    "teamId": "t_8"
+  },
+  "playerStats": {
+    "matchesPlayed": 37,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 6,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Bowler"
+  }
+}, {
+  "id": "91",
+  "playerProfile": {
+    "firstName": "Celestino",
+    "lastName": "Ziemann",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/kaysix_dizzy/128.jpg",
+    "age": 34,
+    "country": "Pakistan",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 12,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 3,
+    "bestFieldWins": 0,
+    "totalPoints": 10,
+    "type": "Bowler"
+  }
+}, {
+  "id": "92",
+  "playerProfile": {
+    "firstName": "Electa",
+    "lastName": "Mertz",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/davidcazalis/128.jpg",
+    "age": 33,
+    "country": "Bangladesh",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 36,
+    "manOfTheMatchWins": 11,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 44,
+    "type": "Batsman"
+  }
+}, {
+  "id": "93",
+  "playerProfile": {
+    "firstName": "Lowell",
+    "lastName": "Veum",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/dnezkumar/128.jpg",
+    "age": 32,
+    "country": "Pakistan",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 16,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 2,
+    "bestFieldWins": 0,
+    "totalPoints": 12,
+    "type": "Bowler"
+  }
+}, {
+  "id": "94",
+  "playerProfile": {
+    "firstName": "Dulce",
+    "lastName": "Emmerich",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/jennyshen/128.jpg",
+    "age": 21,
+    "country": "England",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 4,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Bowler"
+  }
+}, {
+  "id": "95",
+  "playerProfile": {
+    "firstName": "Octavia",
+    "lastName": "Lemke",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/murrayswift/128.jpg",
+    "age": 21,
+    "country": "New Zealand",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 17,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Batsman"
+  }
+}, {
+  "id": "96",
+  "playerProfile": {
+    "firstName": "Milan",
+    "lastName": "Ankunding",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/hota_v/128.jpg",
+    "age": 23,
+    "country": "Bangladesh",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 23,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 3,
+    "bestFieldWins": 0,
+    "totalPoints": 10,
+    "type": "Bowler"
+  }
+}, {
+  "id": "97",
+  "playerProfile": {
+    "firstName": "Verda",
+    "lastName": "Wuckert",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/ruzinav/128.jpg",
+    "age": 26,
+    "country": "New Zealand",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 35,
+    "manOfTheMatchWins": 6,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 2,
+    "totalPoints": 28,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "98",
+  "playerProfile": {
+    "firstName": "Melany",
+    "lastName": "Schmidt",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/wintopia/128.jpg",
+    "age": 22,
+    "country": "Australia",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 3,
+    "bestFieldWins": 0,
+    "totalPoints": 26,
+    "type": "Bowler"
+  }
+}, {
+  "id": "99",
+  "playerProfile": {
+    "firstName": "Eloy",
+    "lastName": "Okuneva",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/akmalfikri/128.jpg",
+    "age": 25,
+    "country": "New Zealand",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 15,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 2,
+    "bestFieldWins": 0,
+    "totalPoints": 12,
+    "type": "Bowler"
+  }
+}, {
+  "id": "910",
+  "playerProfile": {
+    "firstName": "Cletus",
+    "lastName": "Kuhlman",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/reetajayendra/128.jpg",
+    "age": 21,
+    "country": "South Africa",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 23,
+    "manOfTheMatchWins": 6,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Batsman"
+  }
+}, {
+  "id": "911",
+  "playerProfile": {
+    "firstName": "Lourdes",
+    "lastName": "Collier",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/jesseddy/128.jpg",
+    "age": 33,
+    "country": "Pakistan",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 37,
+    "manOfTheMatchWins": 10,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 40,
+    "type": "Batsman"
+  }
+}, {
+  "id": "912",
+  "playerProfile": {
+    "firstName": "Trudie",
+    "lastName": "Koss",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/dhoot_amit/128.jpg",
+    "age": 29,
+    "country": "South Africa",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 32,
+    "manOfTheMatchWins": 8,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Batsman"
+  }
+}, {
+  "id": "913",
+  "playerProfile": {
+    "firstName": "Micah",
+    "lastName": "Fisher",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/hoangloi/128.jpg",
+    "age": 29,
+    "country": "Bangladesh",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 21,
+    "manOfTheMatchWins": 6,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Batsman"
+  }
+}, {
+  "id": "914",
+  "playerProfile": {
+    "firstName": "Alden",
+    "lastName": "Erdman",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/akashsharma39/128.jpg",
+    "age": 32,
+    "country": "New Zealand",
+    "teamId": "t_9"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Batsman"
+  }
+}, {
+  "id": "101",
+  "playerProfile": {
+    "firstName": "Janis",
+    "lastName": "Rodriguez",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/itsajimithing/128.jpg",
+    "age": 28,
+    "country": "Sri Lanka",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 10,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 40,
+    "type": "Batsman"
+  }
+}, {
+  "id": "102",
+  "playerProfile": {
+    "firstName": "Alden",
+    "lastName": "Morissette",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/matt3224/128.jpg",
+    "age": 35,
+    "country": "Bangladesh",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 35,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 2,
+    "totalPoints": 8,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "103",
+  "playerProfile": {
+    "firstName": "Lelia",
+    "lastName": "Boehm",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/chandlervdw/128.jpg",
+    "age": 29,
+    "country": "New Zealand",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 25,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 7,
+    "bestFieldWins": 0,
+    "totalPoints": 14,
+    "type": "Bowler"
+  }
+}, {
+  "id": "104",
+  "playerProfile": {
+    "firstName": "Letitia",
+    "lastName": "Langworth",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/macxim/128.jpg",
+    "age": 34,
+    "country": "England",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 17,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Batsman"
+  }
+}, {
+  "id": "105",
+  "playerProfile": {
+    "firstName": "Trace",
+    "lastName": "Douglas",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/normanbox/128.jpg",
+    "age": 37,
+    "country": "Bangladesh",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 6,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Bowler"
+  }
+}, {
+  "id": "106",
+  "playerProfile": {
+    "firstName": "Margret",
+    "lastName": "Hoppe",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/kaspernordkvist/128.jpg",
+    "age": 33,
+    "country": "England",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 28,
+    "manOfTheMatchWins": 6,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Batsman"
+  }
+}, {
+  "id": "107",
+  "playerProfile": {
+    "firstName": "Will",
+    "lastName": "Hills",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/kaysix_dizzy/128.jpg",
+    "age": 22,
+    "country": "Bangladesh",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 30,
+    "manOfTheMatchWins": 8,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Batsman"
+  }
+}, {
+  "id": "108",
+  "playerProfile": {
+    "firstName": "Diamond",
+    "lastName": "Prosacco",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/aaroni/128.jpg",
+    "age": 35,
+    "country": "Bangladesh",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 12,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 48,
+    "type": "Batsman"
+  }
+}, {
+  "id": "109",
+  "playerProfile": {
+    "firstName": "Tia",
+    "lastName": "Steuber",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/markjenkins/128.jpg",
+    "age": 38,
+    "country": "India",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 20,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 2,
+    "totalPoints": 8,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "1010",
+  "playerProfile": {
+    "firstName": "Ashly",
+    "lastName": "Kling",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/davidbaldie/128.jpg",
+    "age": 30,
+    "country": "England",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 33,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 8,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Bowler"
+  }
+}, {
+  "id": "1011",
+  "playerProfile": {
+    "firstName": "Tia",
+    "lastName": "Simonis",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/carlfairclough/128.jpg",
+    "age": 37,
+    "country": "Australia",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 17,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 2,
+    "totalPoints": 4,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "1012",
+  "playerProfile": {
+    "firstName": "Carolyne",
+    "lastName": "Jaskolski",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/jehnglynn/128.jpg",
+    "age": 19,
+    "country": "India",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 34,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 11,
+    "totalPoints": 30,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "1013",
+  "playerProfile": {
+    "firstName": "Darron",
+    "lastName": "Lueilwitz",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/kanickairaj/128.jpg",
+    "age": 35,
+    "country": "England",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 25,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 7,
+    "bestFieldWins": 0,
+    "totalPoints": 14,
+    "type": "Bowler"
+  }
+}, {
+  "id": "1014",
+  "playerProfile": {
+    "firstName": "Hoyt",
+    "lastName": "Stokes",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/Talbi_ConSept/128.jpg",
+    "age": 20,
+    "country": "South Africa",
+    "teamId": "t_10"
+  },
+  "playerStats": {
+    "matchesPlayed": 26,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 6,
+    "totalPoints": 20,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "111",
+  "playerProfile": {
+    "firstName": "Casandra",
+    "lastName": "Renner",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/dorphern/128.jpg",
+    "age": 23,
+    "country": "Sri Lanka",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 38,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 7,
+    "bestFieldWins": 0,
+    "totalPoints": 22,
+    "type": "Bowler"
+  }
+}, {
+  "id": "112",
+  "playerProfile": {
+    "firstName": "Vita",
+    "lastName": "Brakus",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/dahparra/128.jpg",
+    "age": 29,
+    "country": "England",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 15,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 12,
+    "type": "Batsman"
+  }
+}, {
+  "id": "113",
+  "playerProfile": {
+    "firstName": "Davon",
+    "lastName": "Bogisich",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/de_ascanio/128.jpg",
+    "age": 21,
+    "country": "Australia",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 14,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 12,
+    "type": "Batsman"
+  }
+}, {
+  "id": "114",
+  "playerProfile": {
+    "firstName": "Oda",
+    "lastName": "Greenholt",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/dudestein/128.jpg",
+    "age": 32,
+    "country": "Bangladesh",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 22,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 6,
+    "bestFieldWins": 0,
+    "totalPoints": 16,
+    "type": "Bowler"
+  }
+}, {
+  "id": "115",
+  "playerProfile": {
+    "firstName": "Kathryne",
+    "lastName": "Murphy",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/joshaustin/128.jpg",
+    "age": 34,
+    "country": "India",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 5,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 20,
+    "type": "Batsman"
+  }
+}, {
+  "id": "116",
+  "playerProfile": {
+    "firstName": "Abelardo",
+    "lastName": "Doyle",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/roybarberuk/128.jpg",
+    "age": 34,
+    "country": "Pakistan",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 37,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 9,
+    "totalPoints": 34,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "117",
+  "playerProfile": {
+    "firstName": "Hillard",
+    "lastName": "Hackett",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/byrnecore/128.jpg",
+    "age": 26,
+    "country": "Sri Lanka",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 17,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 4,
+    "bestFieldWins": 0,
+    "totalPoints": 12,
+    "type": "Bowler"
+  }
+}, {
+  "id": "118",
+  "playerProfile": {
+    "firstName": "Grant",
+    "lastName": "Beahan",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/alxleroydeval/128.jpg",
+    "age": 26,
+    "country": "Australia",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 12,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 12,
+    "type": "Batsman"
+  }
+}, {
+  "id": "119",
+  "playerProfile": {
+    "firstName": "Zackary",
+    "lastName": "Jakubowski",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/kimcool/128.jpg",
+    "age": 32,
+    "country": "Sri Lanka",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 13,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 3,
+    "bestFieldWins": 0,
+    "totalPoints": 10,
+    "type": "Bowler"
+  }
+}, {
+  "id": "1110",
+  "playerProfile": {
+    "firstName": "Anderson",
+    "lastName": "Schowalter",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/fiterik/128.jpg",
+    "age": 22,
+    "country": "Pakistan",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 15,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 3,
+    "bestFieldWins": 0,
+    "totalPoints": 10,
+    "type": "Bowler"
+  }
+}, {
+  "id": "1111",
+  "playerProfile": {
+    "firstName": "Katheryn",
+    "lastName": "Stracke",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/lebronjennan/128.jpg",
+    "age": 39,
+    "country": "Pakistan",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 27,
+    "manOfTheMatchWins": 8,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 32,
+    "type": "Batsman"
+  }
+}, {
+  "id": "1112",
+  "playerProfile": {
+    "firstName": "Emerald",
+    "lastName": "Hickle",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/iduuck/128.jpg",
+    "age": 19,
+    "country": "Sri Lanka",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 37,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 7,
+    "bestFieldWins": 0,
+    "totalPoints": 14,
+    "type": "Bowler"
+  }
+}, {
+  "id": "1113",
+  "playerProfile": {
+    "firstName": "Freddy",
+    "lastName": "Abshire",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/nandini_m/128.jpg",
+    "age": 22,
+    "country": "Australia",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 18,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 5,
+    "totalPoints": 18,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "1114",
+  "playerProfile": {
+    "firstName": "Perry",
+    "lastName": "Doyle",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/mbilderbach/128.jpg",
+    "age": 19,
+    "country": "Sri Lanka",
+    "teamId": "t_11"
+  },
+  "playerStats": {
+    "matchesPlayed": 20,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 4,
+    "totalPoints": 12,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "121",
+  "playerProfile": {
+    "firstName": "Estella",
+    "lastName": "Rogahn",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/mdsisto/128.jpg",
+    "age": 23,
+    "country": "England",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 1,
+    "bestFieldWins": 0,
+    "totalPoints": 14,
+    "type": "Bowler"
+  }
+}, {
+  "id": "122",
+  "playerProfile": {
+    "firstName": "Kamryn",
+    "lastName": "Watsica",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/cboller1/128.jpg",
+    "age": 35,
+    "country": "New Zealand",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 12,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 12,
+    "type": "Batsman"
+  }
+}, {
+  "id": "123",
+  "playerProfile": {
+    "firstName": "Jasen",
+    "lastName": "Wiza",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/jpscribbles/128.jpg",
+    "age": 22,
+    "country": "Bangladesh",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 35,
+    "manOfTheMatchWins": 4,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 11,
+    "totalPoints": 38,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "124",
+  "playerProfile": {
+    "firstName": "Reyes",
+    "lastName": "Wyman",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/nelshd/128.jpg",
+    "age": 23,
+    "country": "England",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 18,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 5,
+    "totalPoints": 18,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "125",
+  "playerProfile": {
+    "firstName": "Bridie",
+    "lastName": "Runte",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/markjenkins/128.jpg",
+    "age": 35,
+    "country": "Bangladesh",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 12,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 2,
+    "totalPoints": 8,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "126",
+  "playerProfile": {
+    "firstName": "Augusta",
+    "lastName": "Emard",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/tur8le/128.jpg",
+    "age": 23,
+    "country": "Sri Lanka",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 17,
+    "manOfTheMatchWins": 0,
+    "bowlerOfTheMatchWins": 2,
+    "bestFieldWins": 0,
+    "totalPoints": 4,
+    "type": "Bowler"
+  }
+}, {
+  "id": "127",
+  "playerProfile": {
+    "firstName": "Wilmer",
+    "lastName": "Robel",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/oaktreemedia/128.jpg",
+    "age": 22,
+    "country": "England",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 17,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 14,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "128",
+  "playerProfile": {
+    "firstName": "Janis",
+    "lastName": "Davis",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/themadray/128.jpg",
+    "age": 28,
+    "country": "Australia",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 11,
+    "manOfTheMatchWins": 2,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 2,
+    "totalPoints": 12,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "129",
+  "playerProfile": {
+    "firstName": "Karley",
+    "lastName": "Murphy",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/ffbel/128.jpg",
+    "age": 25,
+    "country": "Pakistan",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 21,
+    "manOfTheMatchWins": 6,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 0,
+    "totalPoints": 24,
+    "type": "Batsman"
+  }
+}, {
+  "id": "1210",
+  "playerProfile": {
+    "firstName": "Benjamin",
+    "lastName": "Greenholt",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/jeremymouton/128.jpg",
+    "age": 36,
+    "country": "Sri Lanka",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 16,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 1,
+    "totalPoints": 14,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "1211",
+  "playerProfile": {
+    "firstName": "Ceasar",
+    "lastName": "Mertz",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/vaughanmoffitt/128.jpg",
+    "age": 21,
+    "country": "South Africa",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 19,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 2,
+    "totalPoints": 16,
+    "type": "All Rounder"
+  }
+}, {
+  "id": "1212",
+  "playerProfile": {
+    "firstName": "Elsa",
+    "lastName": "Cremin",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/necodymiconer/128.jpg",
+    "age": 39,
+    "country": "India",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 28,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 7,
+    "bestFieldWins": 0,
+    "totalPoints": 26,
+    "type": "Bowler"
+  }
+}, {
+  "id": "1213",
+  "playerProfile": {
+    "firstName": "Alessandro",
+    "lastName": "Dickens",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/arpitnj/128.jpg",
+    "age": 21,
+    "country": "South Africa",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 26,
+    "manOfTheMatchWins": 3,
+    "bowlerOfTheMatchWins": 3,
+    "bestFieldWins": 0,
+    "totalPoints": 18,
+    "type": "Bowler"
+  }
+}, {
+  "id": "1214",
+  "playerProfile": {
+    "firstName": "Joshuah",
+    "lastName": "Osinski",
+    "profileImgUrl": "https://s3.amazonaws.com/uifaces/faces/twitter/anasnakawa/128.jpg",
+    "age": 20,
+    "country": "India",
+    "teamId": "t_12"
+  },
+  "playerStats": {
+    "matchesPlayed": 17,
+    "manOfTheMatchWins": 1,
+    "bowlerOfTheMatchWins": 0,
+    "bestFieldWins": 3,
+    "totalPoints": 10,
+    "type": "All Rounder"
+  }
+}]
