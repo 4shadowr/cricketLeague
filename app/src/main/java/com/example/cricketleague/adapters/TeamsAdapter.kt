@@ -15,6 +15,7 @@ class TeamsAdapter(
 ) : ListAdapter<Team, TeamsAdapter.ViewHolder>(DIFF_CALLBACK) {
 
     private lateinit var binding: ItemTeamBinding
+    private var allTeams:List<Team>? = null
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         binding = ItemTeamBinding.inflate(LayoutInflater.from(parent.context),parent,false)
@@ -53,6 +54,22 @@ class TeamsAdapter(
                 listener.onItemClick(position,v!!)
             }
         }
+    }
+
+
+    fun resetFilters() {
+        submitList(allTeams)
+    }
+
+    override fun submitList(list: List<Team>?) {
+        if (allTeams ==null && list != null){
+            allTeams = ArrayList(list)
+        }
+        super.submitList(list)
+    }
+
+    fun getInitialList(): List<Team>? {
+        return allTeams
     }
 
     companion object {

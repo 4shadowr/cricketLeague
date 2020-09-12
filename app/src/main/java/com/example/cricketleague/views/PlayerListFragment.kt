@@ -133,7 +133,7 @@ class PlayerListFragment : Fragment(), SearchView.OnQueryTextListener, PlayersAd
 
     override fun onQueryTextSubmit(query: String?): Boolean {
         searchWith(query)
-        return true;
+        return true
     }
 
     override fun onQueryTextChange(newText: String?): Boolean {
